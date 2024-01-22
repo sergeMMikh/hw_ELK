@@ -12,7 +12,7 @@
 
 - Скриншот с командой и результатом ее выполнения
   
-  <img src="images/Task_1.jpg" alt="Task_1" width="500" height="auto">
+  <img src="images/Task_1.png" alt="Task_1" width="500" height="auto">
 
 ---
 
